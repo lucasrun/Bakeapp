@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- main strings -->
+    <string name="app_name">BakeApp</string>
+    <string name="JSON_URL">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+
+    <!-- save strings -->
+    <string name="PARCEL_RECIPE">recipe</string>
+    <string name="PARCEL_STEP">step</string>
+    <string name="PARCEL_STEP_LIST">stepList</string>
+    <string name="STEP_POSITION">stepPosition</string>
+    <string name="TWO_PANE">twoPane</string>
+
+    <!-- exoplayer strings -->
+    <string name="PLAYER_READY">ExoPlayerReady</string>
+    <string name="PLAYER_POSITION">ExoPlayerPosition</string>
+
+    <!-- other strings -->
+    <string name="EMPTY" />
+
+    <!-- error strings -->
+    <string name="recipe_list_load_error">Error loading one or more samples!</string>
+    <string name="NULL_OBJECT_REFERENCE">Trying to reference to null object</string>
+    <string name="previous_step">Previous</string>
+    <string name="next_step">Next</string>
+
+</resources>
